@@ -1,5 +1,5 @@
 {
-  "name": "guessme",
+  "name": "@iamsidar07/guessme",
   "version": "1.0.0",
   "description": "\"Hangman game for terminal\"",
   "main": "index.js",
